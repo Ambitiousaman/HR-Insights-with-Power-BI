@@ -45,3 +45,6 @@ enhance insights.
 4) Job Role & Education Level Insights
 5) Gender-wise Attrition Comparison
 6) Years at Company vs Attrition Trendline
+
+**Screenshot / Demos**
+Link-> https://github.com/Ambitiousaman/HR-Insights-with-Power-BI/blob/main/Screenshot%202025-12-01%20125714.png
